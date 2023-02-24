@@ -28,3 +28,8 @@ https://rubenftgd.github.io/unity-first-top-down
 **Image with player and tilemap**
 ======
 ![plot](./gameplay-images/image_1.png)
+
+---
+
+# TO FIX WEB GAME DEPLOY
+Go to Player setting -> WebGL -> Publish settings -> Compression = disabled. 
