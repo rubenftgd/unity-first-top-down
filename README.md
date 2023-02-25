@@ -25,7 +25,7 @@ https://rubenftgd.github.io/unity-first-top-down
 
 ---
 
-**Image with player and tilemap**
+**Gameplay Screenshots**
 ======
 ![plot](./gameplay-images/image_1.png)
 
