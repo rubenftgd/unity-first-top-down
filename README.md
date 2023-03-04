@@ -12,6 +12,8 @@ https://www.youtube.com/@Brackeys
 
 This game has several small improvements beyond the tutorial as I tried to make it my own.
 
+# Unity Version
+2021.3.20f1
 
 ---
 
